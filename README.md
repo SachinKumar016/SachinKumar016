@@ -34,7 +34,7 @@ I'm **Sachin Kumar Jha**, an enthusiastic software developer with a passion for 
 ---
 
 ### 🌐 Connect With Me:
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square](https://www.linkedin.com/in/sachin-kumar-08b732317/))](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/sachin-kumar-08b732317/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=web&logoColor=white&style=flat-square)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:youremail@example.com)
 
